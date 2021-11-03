@@ -1,0 +1,27 @@
+footer.dashboard {
+    padding: 10px 20px;
+    text-align: center;
+    left: 250px; }
+  
+  footer.dashboard p {
+    font-size: 14px; }
+  
+  .sticky-header.sidebar-menu-collapsed footer.dashboard {
+    left: 52px; }
+  
+  .sidebar-menu-collapsed footer.dashboard {
+    left: 52px; }
+  
+  footer.dashboard p a:hover {
+    text-decoration: underline; }
+
+  table.dataTable.no-footer {
+    border-bottom: 1px solid transparent; }
+
+  .chart-grid__footer {
+    background: none;
+    font-size: 16px;
+    border-top: 1px solid #eee; }
+
+  .card-footer--padding {
+    padding: 30px 25px; }
