@@ -1,7 +1,7 @@
 import React from "react";
 import usuario from '../../../assets/images/usuario.jpg'
 
-function Usuario(props){
+function User(props){
     return (
         <div className="detalhe_usuario">
             <ul>
@@ -18,4 +18,4 @@ function Usuario(props){
     )
 }
 
-export default Usuario
+export default User

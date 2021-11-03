@@ -1,6 +1,6 @@
 import React from "react";
-import Pesquisa from "../../micro/pesquisa/pesquisa";
-import Usuario from "../../micro/usuario/usuario";
+import Pesquisa from "../../micro/search/search";
+import Usuario from "../../micro/user/user";
 
 
 
